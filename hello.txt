@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello git 44444444
 hello linux
 hello git 
@@ -5,3 +6,4 @@ hello linux
 hello git 
 hello linux master test
 hello linux
+x     hot-fix
