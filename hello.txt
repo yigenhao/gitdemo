@@ -3,6 +3,5 @@ hello linux
 hello git 
 hello linux
 hello git 
-hello linux
-hello git 
+hello linux master test
 hello linux
