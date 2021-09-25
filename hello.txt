@@ -7,3 +7,4 @@ hello git
 hello linux master test
 hello linux
 x     hot-fix
+github set now
